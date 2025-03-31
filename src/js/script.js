@@ -23,3 +23,20 @@ console.log(typeof exemplo4)
 
 let exemplo5 = [];
 console.log(typeof exemplo5)
+
+//Conversões 
+let numFloat = 123.45;
+console.log(parseInt(numFloat))
+
+let numString = "123.456";
+console.log(parseFloat(numString))
+
+//metodos 
+
+let str1 = "Olá mundo"
+console.log(str1.length)// retorna o número de char da str
+
+console.log(str1.indexOf("á"))// retorna o índice 
+
+console.log(str1.slice(2,5))// corta a str
+
