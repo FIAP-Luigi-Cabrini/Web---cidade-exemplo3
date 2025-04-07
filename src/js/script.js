@@ -91,8 +91,10 @@
 
 // }
 
-//Ternário
-let valor = 100;
+// //Ternário
+// let valor = 100;
 
-let resultado = valor == 100 ?"Certo":"Errado";
-console.log(resultado)
+// let resultado = valor == 100 ?"Certo":"Errado";
+// console.log(resultado)
+
+//Estrutura de repetição
