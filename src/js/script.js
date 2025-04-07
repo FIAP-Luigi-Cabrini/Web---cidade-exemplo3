@@ -42,7 +42,53 @@
 
 
 //Operadores aritméticos 
- const num1 = 10;
- const num2 =20; 
- console.log(num1 + num2)
+ //const num1 = 10;
+//const num2 =20; 
+// console.log(num1 + num2)
 
+// //ESTRUTURAS CONDICIONAIS
+// let num = 24
+
+// if(num > 20){
+//     console.log("é verdadeiro")
+// }
+
+// //if else
+// let usuario = "teste"
+// if(usuario == "teste"){
+//     console.log("Usuário certo")
+// }else{
+//     console.log("Usuário errado")
+// }
+
+// // ifs encadiados/aninhados
+
+// let idade = 15;
+// if(idade <=15){
+//     console.log("Menor de idade")
+// }else if(idade > 15 && idade < 18){
+//     console.log("Não é maior de idade mas pode entrar")
+// }else{
+//     console.log("Maior e pode entrar")
+// }
+
+// //switch case
+
+// let time = "Coringa"
+
+// switch(time){
+//     case "São Paulo":
+//         console.log("Gays");
+//         break;
+//     case "Conringa":
+//         console.log("Meu timão");
+//         break;
+//     case "Palmeiras":
+//         console.log("Não tem mundial");
+//         break;
+//     default:
+//         console.log("Nenhum time selecionado")
+
+// }
+
+//Ternário 
